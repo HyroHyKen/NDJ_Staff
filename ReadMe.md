@@ -128,7 +128,7 @@ Lien du skin vers le workshop :
 
 <hr>
 
-##Les joueurs :
+## Les joueurs :
 
 | Nom | Prénom | Rôle | Description physique | Description mentale | Lien du skin vers le workshop |
 | --- | --- | --- | --- | --- | --- |
@@ -143,7 +143,7 @@ Lien du skin vers le workshop :
 | | | Prêtre | | | |
 | | | Garde Forestier | | | |
 
-##Joueurs participants (9/9):
+## Joueurs participants (9/9):
 - Doune
 - Manou
 - Bretzel
