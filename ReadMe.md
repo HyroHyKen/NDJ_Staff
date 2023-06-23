@@ -86,8 +86,8 @@ Nom :
 Prénom :
 Age :
 Rôle :
-Description physique :
-Description mentale :
+Description physique (5 mots) :
+Description mentale (5 mots) :
 Lien du skin vers le workshop :
 ```
 
