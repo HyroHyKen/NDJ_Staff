@@ -1,3 +1,5 @@
+![alt](https://yt3.googleusercontent.com/8CwFhJ1y8mMrIlNU8wdWvNthHA2xsZc6lXPQkqsHi5nB9wxkDWFTW7Ra55pyVWk-b8WeNrL6iA4=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 <center>
 <h2>Sept 86' : Rudmerge County</h2>
 
@@ -19,7 +21,7 @@
 Nous sommes durant le mois de septembre 1986 dans l'Rudmerge County, en Oregon. Le temps s'est adouci après un été caniculaire et les habitants de Blue Pines, Dry Lake et les animaux de la forêt de Cassady Valley se préparent à profiter de la fraiche douceur de l'automne. Malgré les évènements fâcheux de disparitions qui ont eu lieu depuis quelques mois, la ville est calme et les habitants vaquent à leurs occupations quotidiennes.
 
 *Vous révez, vous souvenez vous  ? Avez vous besoin que l'on vous raffraichisse la mémoire?*
-*[Regarde moi.](https://youtu.be/iXYOlFITFdE)*
+*[Regarde moi.](https://youtube.com/playlist?list=PLPZP6aDBBsZCKMHc5opPnNNzSKk9gv-C5)*
 
 Une nuit, vous vous réveillez en sursaut et vous apercevez que vous êtes seul. Les rues ne sont plus animées, les habitants ont disparu, les maisons sont presque vides. Armé de votre courage, vous décidez de partir à la recherche de réponses.
 
