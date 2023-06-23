@@ -1,5 +1,5 @@
 <center>
-<h2>Sept 86' : Edenton County</h2>
+<h2>Sept 86' : Rudmerge County</h2>
 
 </center>
 
@@ -16,7 +16,7 @@
 
 ### Contexte
 
-Nous sommes durant le mois de septembre 1986 dans l'Edenton County, en Oregon. Le temps s'est adouci après un été caniculaire et les habitants de Blue Pines, Dry Lake et les animaux de la forêt de Cassady Valley se préparent à profiter de la fraiche douceur de l'automne. Malgré les évènements fâcheux de disparitions qui ont eu lieu depuis quelques mois, la ville est calme et les habitants vaquent à leurs occupations quotidiennes.
+Nous sommes durant le mois de septembre 1986 dans l'Rudmerge County, en Oregon. Le temps s'est adouci après un été caniculaire et les habitants de Blue Pines, Dry Lake et les animaux de la forêt de Cassady Valley se préparent à profiter de la fraiche douceur de l'automne. Malgré les évènements fâcheux de disparitions qui ont eu lieu depuis quelques mois, la ville est calme et les habitants vaquent à leurs occupations quotidiennes.
 
 *Vous révez, vous souvenez vous  ? Avez vous besoin que l'on vous raffraichisse la mémoire?*
 *[Regarde moi.](https://youtu.be/iXYOlFITFdE)*
@@ -117,7 +117,7 @@ Lien du skin vers le workshop :
 
 <hr>
 <center>
-    <h4>Carte d'Edenton County </h4>
+    <h4>Carte de Rudmerge County </h4>
     <img src="./map.png" alt="drawing" width="500"/>
 
 *[The Lotus is here.](https://www.youtube.com/watch?v=fbFgxucxVcM)*
