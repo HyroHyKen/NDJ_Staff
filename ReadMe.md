@@ -120,7 +120,8 @@ Lien du skin vers le workshop :
     <h4>Carte de Rudmerge County </h4>
     <img src="./map.png" alt="drawing" width="500"/>
 
-*[The Lotus is here.](https://www.youtube.com/watch?v=fbFgxucxVcM)*
 
 </center>
 
+
+*[The Lotus is here.](https://www.youtube.com/watch?v=fbFgxucxVcM)*
