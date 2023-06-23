@@ -125,3 +125,32 @@ Lien du skin vers le workshop :
 
 
 *[The Lotus is here.](https://www.youtube.com/watch?v=fbFgxucxVcM)*
+
+<hr>
+
+##Les joueurs :
+
+| Nom | Prénom | Rôle | Description physique | Description mentale | Lien du skin vers le workshop |
+| --- | --- | --- | --- | --- | --- |
+| | | Voyageur | | | |
+| | | Voyageur | | | |
+| | | Barman | | | |
+| | | Cuisinier | | | |
+| | | Complotiste | | | |
+| | | Scientifique | | | |
+| | | Citoyen Endormi | | | |
+| | | Livreur | | | |
+| | | Prêtre | | | |
+| | | Garde Forestier | | | |
+
+##Joueurs participants (9/9):
+- Doune
+- Manou
+- Bretzel
+- DrRush
+- Alpha
+- Yosu
+- Mirage 
+- Belau ?
+- Galaxy ?
+- Alex **(MJ)**
