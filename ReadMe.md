@@ -140,14 +140,14 @@ Lien du skin vers le workshop :
 | | | Cuisinier | | | |
 | | | Complotiste | | | |
 | | | Scientifique | | | |
-| | | Citoyen Endormi | | | |
+|Down|Amber| Citoyen Endormi |Le corps frêle, les cheveux bruns bouclés, la peau pâle, agile et rapide|Craintive, sociable, curieuse, calme, optimiste|[Lien du skin](https://steamcommunity.com/sharedfiles/filedetails/?id=1875614467)|
 | | | Livreur | | | |
 | | | Prêtre | | | |
 | | | Garde Forestier | | | |
 
 ## Joueurs participants (9/9):
 - Doune
-- Manou
+- Manou - Validée
 - Bretzel
 - DrRush
 - Alpha
