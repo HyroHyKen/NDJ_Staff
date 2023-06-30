@@ -135,7 +135,6 @@ Lien du skin vers le workshop :
 | Nom | Prénom | Rôle | Description physique | Description mentale | Lien du skin vers le workshop |
 | --- | --- | --- | --- | --- | --- |
 | | | Voyageur | | | |
-| | | Voyageur | | | |
 |Rodnell|Davis| Barman |corpulence normal, afro-américain, pilositée blanche, cour assez vite, force médiocre|perspicace, analyste, craintif, sociable, compassionistes| [Lien du Skin](https://steamcommunity.com/sharedfiles/filedetails/?id=2992580540) |
 | | | Cuisinier | | | |
 | | | Complotiste | | | |
