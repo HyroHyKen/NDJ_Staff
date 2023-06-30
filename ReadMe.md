@@ -135,7 +135,7 @@ Lien du skin vers le workshop :
 | Nom | Prénom | Rôle | Description physique | Description mentale | Lien du skin vers le workshop |
 | --- | --- | --- | --- | --- | --- |
 |Rodnell|Davis| Barman |corpulence normal, afro-américain, pilositée blanche, cour assez vite, force médiocre|perspicace, analyste, craintif, sociable, compassionistes| [Lien du Skin](https://steamcommunity.com/sharedfiles/filedetails/?id=2992580540) |
-|Belau | | Complotiste | | | |
+|DUCHENET |Etienne | Complotiste |Gringalet, La peau sur les os, cheveux brun plaqué sur la côté à la façon allemand enervé entre 38-45, tache de rousseur, grosse binocle |Introverti, dérangé, associable, geek, excité quand on parle de ce qu'il aime | |
 |McCarpe |Paul | Scientifique |Grand, Mince, Rapide mais peu endurant et Sage |Calme, déterminé, patient, opportuniste et drôle | ???? |
 |Down|Amber| Citoyen Endormi |Le corps frêle, les cheveux bruns bouclés, la peau pâle, agile et rapide|Craintive, sociable, curieuse, calme, optimiste|[Lien du skin](https://steamcommunity.com/sharedfiles/filedetails/?id=1875614467)|
 |Wheeler |Oscar | Livreur |Cheveux sombres courts, endurant et musclé sec, mauvais réflexes.Pas rapide, revanchard, philosophe de comptoir, team player. |Pas rapide, revanchard, philosophe de comptoir, team player | Skin|
@@ -146,7 +146,7 @@ Lien du skin vers le workshop :
 - Doune  - Validé
 - Manou - Validée
 - Alpha
-- Belau
+- Belau - Validé
 - Yosu - Validé
 - Uzvael - Validé
 - Reaper  - Validé
