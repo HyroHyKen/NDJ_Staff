@@ -138,7 +138,7 @@ Lien du skin vers le workshop :
 | | | Complotiste | | | |
 |McCarpe |Paul | Scientifique |Grand, Mince, Rapide mais peu endurant et Sage |Calme, déterminé, patient, opportuniste et drôle | ???? |
 |Down|Amber| Citoyen Endormi |Le corps frêle, les cheveux bruns bouclés, la peau pâle, agile et rapide|Craintive, sociable, curieuse, calme, optimiste|[Lien du skin](https://steamcommunity.com/sharedfiles/filedetails/?id=1875614467)|
-| | | Livreur | | | |
+|Wheeler |Oscar | Livreur |Cheveux sombres courts, endurant et musclé sec, mauvais réflexes.Pas rapide, revanchard, philosophe de comptoir, team player. | | |
 |Jack |Peterson | Prêtre |taille moyenne, pas sportif, couleur de peau d'une personne qui vient de Jamaïque, gringalet, mais assez résistant  |aime lire la bible, extrémiste biblique, aime hurler des verset a la gueule des gens hérétique, exorciste quand sa lui chante, balance de l'eau bénite contre les impie |[Lien du skin](https://steamcommunity.com/sharedfiles/filedetails/?id=2803694156) |
 | | | Garde Forestier | | | |
 
@@ -147,8 +147,7 @@ Lien du skin vers le workshop :
 - Manou - Validée
 - Alpha
 - Yosu - Validé
-- Uzvael 
-- Mirage 
+- Uzvael - Validé
 - Reaper  - Validé
 - Alex **(MJ)**
 
