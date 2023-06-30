@@ -148,7 +148,6 @@ Lien du skin vers le workshop :
 ## Joueurs participants (?/9):
 - Doune  - Validé
 - Manou - Validée
-- DrRush
 - Alpha
 - Yosu - Validé
 - Uzvael 
