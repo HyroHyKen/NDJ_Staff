@@ -142,19 +142,17 @@ Lien du skin vers le workshop :
 | | | Scientifique | | | |
 |Down|Amber| Citoyen Endormi |Le corps frêle, les cheveux bruns bouclés, la peau pâle, agile et rapide|Craintive, sociable, curieuse, calme, optimiste|[Lien du skin](https://steamcommunity.com/sharedfiles/filedetails/?id=1875614467)|
 | | | Livreur | | | |
-| | | Prêtre | | | |
+|Jack |Peterson | Prêtre |taille moyenne, pas sportif, couleur de peau d'une personne qui vient de Jamaïque, gringalet, mais assez résistant  |aime lire la bible, extrémiste biblique, aime hurler des verset a la gueule des gens hérétique, exorciste quand sa lui chante, balance de l'eau bénite contre les impie |[Lien du skin](https://steamcommunity.com/sharedfiles/filedetails/?id=2803694156) |
 | | | Garde Forestier | | | |
 
-## Joueurs participants (9/9):
+## Joueurs participants (?/9):
 - Doune
 - Manou - Validée
-- Bretzel
 - DrRush
 - Alpha
 - Yosu - Validé
 - Mirage 
-- Belau 
-- Galaxy 
+- Reaper 
 - Alex **(MJ)**
 
 
