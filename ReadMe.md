@@ -139,20 +139,20 @@ Lien du skin vers le workshop :
 |Rodnell|Davis| Barman |corpulence normal, afro-américain, pilositée blanche, cour assez vite, force médiocre|perspicace, analyste, craintif, sociable, compassionistes| [Lien du Skin](https://steamcommunity.com/sharedfiles/filedetails/?id=2992580540) |
 | | | Cuisinier | | | |
 | | | Complotiste | | | |
-| | | Scientifique | | | |
+|Doune | | Scientifique | | | |
 |Down|Amber| Citoyen Endormi |Le corps frêle, les cheveux bruns bouclés, la peau pâle, agile et rapide|Craintive, sociable, curieuse, calme, optimiste|[Lien du skin](https://steamcommunity.com/sharedfiles/filedetails/?id=1875614467)|
 | | | Livreur | | | |
 |Jack |Peterson | Prêtre |taille moyenne, pas sportif, couleur de peau d'une personne qui vient de Jamaïque, gringalet, mais assez résistant  |aime lire la bible, extrémiste biblique, aime hurler des verset a la gueule des gens hérétique, exorciste quand sa lui chante, balance de l'eau bénite contre les impie |[Lien du skin](https://steamcommunity.com/sharedfiles/filedetails/?id=2803694156) |
 | | | Garde Forestier | | | |
 
 ## Joueurs participants (?/9):
-- Doune
+- Doune  - Validé
 - Manou - Validée
 - DrRush
 - Alpha
 - Yosu - Validé
 - Mirage 
-- Reaper 
+- Reaper  - Validé
 - Alex **(MJ)**
 
 
