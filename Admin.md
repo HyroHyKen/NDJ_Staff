@@ -44,27 +44,27 @@ Si nous manquons de joueurs, nous pourrons inviter des joueurs de confiance de l
 
 *Faire un coffre avec une copie de tout les objets dans le haut du manoir*
 
-- Chapelet
-- Eau bénite
+~~- Chapelet~~
+~~- Eau bénite~~
 - Couteau de cuisine
-- Couteau de chasse
-- Alcool (placé dans le bar) : 
-  - Whisky
-  - Gin
-  - Vodka
-  - Rhum
-  - Tequila
-- Contrat d'assassinat
-- Nourriture
-- Poison
+~~- Couteau de chasse~~
+~~- Alcool (placé dans le bar) :~~
+  ~~- Whisky~~
+  ~~- Gin~~
+  ~~- Vodka~~
+  ~~- Rhum~~
+  ~~- Tequila~~
+~~- Contrat d'assassinat~~ (à changer si l'hôte est un homme)
+~~- Nourriture~~
+~~- Poison~~
 - Code du coffre secret
-- Argent
+~~- Argent~~
 - Menottes
-- Carnet de notes
-- Revolver des gens d'armes
-- Munition d'arme à feu revolvers
-- Fusil de chasse
-- Munition d'arme à feu fusil de chasse
+~~- Carnet de notes~~ (Ecrire des choses à l'intérieur ?)
+~~- Revolver des gens d'armes~~
+~~- Munition d'arme à feu revolvers~~
+~~- Fusil de chasse~~
+~~- Munition d'arme à feu fusil de chasse~~
 
 <hr>
 
@@ -78,9 +78,9 @@ Si nous manquons de joueurs, nous pourrons inviter des joueurs de confiance de l
 - [ ] L'accès a la forêt derrière et un sentier vers le lac
 - [ ] Préparer des NPC animaux pour l'activité de chasse
 - [ ] Enlever les appareils technologiques ou objets trop récents
-- [ ] Prévoir 13 sièges dans la salle à manger
-- [ ] Réaliser les clés pour les chambres (mettre les doubles dans un coffre sous le toit du manoir)
-  - [ ] Les renommer toutes : "Clé de la chambre n°X, étage X"
+- [X] Prévoir 13 sièges dans la salle à manger
+- [ ] Réaliser les clés pour les chambres (mettre les doubles dans un coffre sous le toit du manoir) (revoir double porte)
+  - [x] Les renommer toutes : "Clé de la chambre n°X, étage X"
     - /itemname Clé de la chambre n°1, étage 1
 - [ ] Réaliser les photos de la pièce secrète et du passage secret pour les faire passer a l'homme / femme d'affaire et au majordome
 - [ ] Finir le contexte
