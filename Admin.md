@@ -79,7 +79,7 @@ Si nous manquons de joueurs, nous pourrons inviter des joueurs de confiance de l
 - [ ] Forêt
   - [ ] Faire un cabanon de pèche
 - [x] Le jardin (rien de plus que ce qui est déjà présent)
-- [ ] L'accès a la forêt derrière et un sentier vers la rivière
+- [x] L'accès a la forêt derrière et un sentier vers la rivière
 - [ ] Préparer des NPC animaux pour l'activité de chasse
 - [x] Enlever les appareils technologiques ou objets trop récents
 - [X] Prévoir 13 sièges dans la salle à manger
@@ -91,6 +91,12 @@ Si nous manquons de joueurs, nous pourrons inviter des joueurs de confiance de l
 - [ ] Faire une lettre réalisé par l'hôte que les invités auront reçu avant d'arriver au manoir 
 - [ ] 3 états de table (vide, repas, petit déjeuner)
   - [ ] Le but serait d'avoir un système qui permettrait de changer l'état de la table en appuyant sur des boutons placés dans la cuisine 
+- [ ] Coffre caché derrière le tableau dans le bureau
+  - [ ] Région à réaliser autour avec le message suivant : 
+    - "Vous remarquez que le tableau n'est pas droit... Il n'est pas parallèle au bord de la cheminée... Etrange..."
+- [ ] Réaliser les tellraw des livres dans la bibliothèque du RDC
+- [ ] Tellraw sur le livre dans le bureau de la bibliothèque :
+  - "L’ouvrage que vous lisez est en réalité un registre des livres de la bibliothèque. La collection est complète et rangée par ordre alphabétique."
 
 #### Placer des interactions :
 - Interactions diverse pour l'immersion
