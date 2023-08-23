@@ -22,21 +22,21 @@ Si nous manquons de joueurs, nous pourrons inviter des joueurs de confiance de l
 - Votre partie est gagnée lorsque vous avez tué votre cible.
 - Equipement : 
   - Poison (1 utilisation) : Une fois le poison posé sur un objet ou de la nourriture, celui-ci sera mortel pour la personne qui le consommera ou utilisera l'objet pendant plus de 10 secondes. (*/helpop POISON: Objet/Nourriture sur lequel vous avez posé le poison*)
-
-###### Tueur en série (1) :
-- Votre but sera de tuer le plus de personnes possible.
-- Equipement : 
-  - Couteau (Utilisations infini mais cooldown de 5 minutes entre les meurtres)
+  - Petit bout de papier avec les initiales de celui vous ayant commandité l'assassinat ainsi que le nom de votre cible.
 
 ###### "Vampire" (1) :
 - Vous êtes atteint d'une pathologie rare qui ne vous permet pas de vous exposer trop longuement au soleil. Afin de justifier cela, vous avez émis la théorie que vous étiez un vampire. 
 - Vous avez une irrépressible envie de sang car vous pensez que cela vous permet de vivre plus longtemps. Votre but sera de tuer le plus de personnes possible sans vous faire prendre et d'en prélever le sang.
 - Ce que vous craignez : 
   - Le soleil : Si vous restez trop longtemps exposé au soleil, vous devrez vous isoler dans votre chambre pendant 10 min pour vous reposer.
-  - Vous êtes effrayé des éléments suivants (alors que ces éléments ne vous font rien) :
+  - Vous êtes légèrement effrayé des éléments suivants (alors que ces éléments ne vous font rien) :
     - L'ail
     - L'eau bénite
     - Les croix
+- Tout les soirs avant d'aller vous coucher, vous devrez aller dans la cave pour prier et réciter la formule suivante :
+  *O doctissime ac pulcherrime Angelorum!*
+  *Deus fato proditus et laude privatus;*
+  *O satana, longae miserere mei!*
 
 <hr>
 
@@ -44,48 +44,53 @@ Si nous manquons de joueurs, nous pourrons inviter des joueurs de confiance de l
 
 *Faire un coffre avec une copie de tout les objets dans le haut du manoir*
 
-~~- Chapelet~~
-~~- Eau bénite~~
+- ~~- Chapelet~~
+- ~~- Eau bénite~~
 - Couteau de cuisine
-~~- Couteau de chasse~~
-~~- Alcool (placé dans le bar) :~~
-  ~~- Whisky~~
-  ~~- Gin~~
-  ~~- Vodka~~
-  ~~- Rhum~~
-  ~~- Tequila~~
-~~- Contrat d'assassinat~~ (à changer si l'hôte est un homme)
-~~- Nourriture~~
-~~- Poison~~
+- ~~- Couteau de chasse~~
+- ~~- Alcool (placé dans le bar) :~~
+  - ~~- Whisky~~
+  - ~~- Gin~~
+  - ~~- Vodka~~
+  - ~~- Rhum~~
+  - ~~- Tequila~~
+- ~~- Contrat d'assassinat~~ (à changer si l'hôte est un homme)
+- ~~- Nourriture~~
+- ~~- Poison~~
 - Code du coffre secret
-~~- Argent~~
+- ~~- Argent~~
 - Menottes
-~~- Carnet de notes~~ (Ecrire des choses à l'intérieur ?)
-~~- Revolver des gens d'armes~~
-~~- Munition d'arme à feu revolvers~~
-~~- Fusil de chasse~~
-~~- Munition d'arme à feu fusil de chasse~~
+- ~~- Carnet de notes~~ (Ecrire des choses à l'intérieur ?)
+- ~~- Revolver des gens d'armes~~
+- ~~- Munition d'arme à feu revolvers~~
+- ~~- Fusil de chasse~~
+- ~~- Munition d'arme à feu fusil de chasse~~
 
 <hr>
 
 #### A réaliser :
 
-- [ ] Petite chapelle ou lieu de culte
-- [ ] Passages secrets
-- [ ] Pièce secrète
+- [x] Petite chapelle ou lieu de culte
+- [x] Accès à la chapelle
+- [x] Passages secrets
+  - [x] Bureau --> Cave
+- [x] Pièce secrète
+  - [x] Chambre premier étage
 - [ ] Forêt
-- [ ] Le jardin
-- [ ] L'accès a la forêt derrière et un sentier vers le lac
+  - [ ] Faire un cabanon de pèche
+- [x] Le jardin (rien de plus que ce qui est déjà présent)
+- [ ] L'accès a la forêt derrière et un sentier vers la rivière
 - [ ] Préparer des NPC animaux pour l'activité de chasse
-- [ ] Enlever les appareils technologiques ou objets trop récents
+- [x] Enlever les appareils technologiques ou objets trop récents
 - [X] Prévoir 13 sièges dans la salle à manger
-- [ ] Réaliser les clés pour les chambres (mettre les doubles dans un coffre sous le toit du manoir) (revoir double porte)
+- [x] Réaliser les clés pour les chambres (mettre les doubles dans un coffre sous le toit du manoir) (revoir double porte)
   - [x] Les renommer toutes : "Clé de la chambre n°X, étage X"
     - /itemname Clé de la chambre n°1, étage 1
 - [ ] Réaliser les photos de la pièce secrète et du passage secret pour les faire passer a l'homme / femme d'affaire et au majordome
 - [ ] Finir le contexte
 - [ ] Faire une lettre réalisé par l'hôte que les invités auront reçu avant d'arriver au manoir 
 - [ ] 3 états de table (vide, repas, petit déjeuner)
+  - [ ] Le but serait d'avoir un système qui permettrait de changer l'état de la table en appuyant sur des boutons placés dans la cuisine 
 
 #### Placer des interactions :
 - Interactions diverse pour l'immersion
@@ -102,6 +107,10 @@ Si nous manquons de joueurs, nous pourrons inviter des joueurs de confiance de l
 <hr>
 
 ##### Infos supplémentaire (**Vous avez le choix de faire parvenir ces informations aux autres joueurs à tout moment a vos risques et périls**) :
+
+###### A Faire !!!
+- [ ] Ecrire des secrets pour chaque rôle qui les rendent suspects
+- [ ] Pour chaque secrets prévoir un moyen de le trouver en RP par les autres joueurs
 
 ###### Hôte : 
 - Vous êtes l'hôte de ce manoir, un veuf / veuve ayant hérité de la fortune familiale de votre défunt conjoint, vous avez invité vos amis afin de passer un week-end dans ce manoir pour vous aider à tourner la page.

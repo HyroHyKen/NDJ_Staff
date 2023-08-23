@@ -21,9 +21,13 @@
 ### Contexte
 
 15 Octobre 1898, les feuilles devenues brunes commencent à se détacher des branches des arbres entourant le manoir Bradbury tapissant ainsi le sol d'une agréable couleur automnale. Ce jour là, de l'inquiétude se faisait ressentir dans le bureau de l'hôte des lieux alors que ce dernier finissait de marquer son sceau de cire sur les dernières invitations. 
+
+```
+Y inclure la lettre d'invitation.
+```
+
 *Dire que le manoir est isolé et a une demi journée de toute civilization*
 *Inclure le fait que son conjoint est mort récemment de la maladie et que ce dernier à hérité de toute la fortune car le défunt n'avait plus de famille.*
-*Y inclure la lettre d'invitation pour les invités.*
 <hr>
 
 #### Les rôles disponibles :
@@ -41,6 +45,8 @@
 ###### Gens d'armes (2) 
 
 *Pour vos skins, vous pourrez les réaliser sur le customiseur de BlackWell. De plus, veillez à bien noter vos dépenses pour les tenues, ces dernières vous seront remboursés a la fin de l'activité.*
+
+[Lien du customiseur](https://upgrade.blackwell-university.fr/)
 
 Afin de compléter ces derniers, ils vous seront attribués (ou non) un rôle supplémentaire qui sera lui un rôle avec un but mauvais.
 
