@@ -94,8 +94,8 @@ Si nous manquons de joueurs, nous pourrons inviter des joueurs de confiance de l
 - [ ] Coffre caché derrière le tableau dans le bureau
   - [ ] Région à réaliser autour avec le message suivant : 
     - "Vous remarquez que le tableau n'est pas droit... Il n'est pas parallèle au bord de la cheminée... Etrange..."
-- [ ] Réaliser les tellraw des livres dans la bibliothèque du RDC
-- [ ] Tellraw sur le livre dans le bureau de la bibliothèque :
+- [x] Réaliser les tellraw des livres dans la bibliothèque du RDC
+- [x] Tellraw sur le livre dans le bureau de la bibliothèque :
   - "L’ouvrage que vous lisez est en réalité un registre des livres de la bibliothèque. La collection est complète et rangée par ordre alphabétique."
 
 #### Placer des interactions :
